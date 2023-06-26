@@ -1,0 +1,24 @@
+.nevigation-menu{
+   list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nevigation-menu li{
+    margin: 0px 20px;
+}
+
+
+
+.nevigation-menu li a{
+    text-decoration: none;
+    color: white;
+}
+
+.active{
+    color: goldenrod !important;
+    font-weight: bold !important;
+
+}
+

@@ -1,0 +1,28 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Mobile View */
+
+.mobile-navigation{
+  list-style: none;
+}
+
+.mobile-navigation li{
+  margin-top: 20px;
+}
+
+.mobile-navigation a{
+  text-decoration: none;
+  font-size: 1.4rem ;
+  color: black;
+
+}
